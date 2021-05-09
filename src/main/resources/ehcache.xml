@@ -9,5 +9,6 @@
 		<ehcache:resources>
 			<ehcache:heap>10</ehcache:heap>
 		</ehcache:resources>
+		
 	</ehcache:cache>
 </ehcache:config>
